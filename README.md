@@ -1,28 +1,26 @@
-<div align="center">
-  <img src="https://vercel.app" width="100%" />
-</div>
+# ✨ Hi there, I'm Trishita Saha! 👋
+
+> **"Turning raw data into intelligence & bold ideas into real-world code."** 🚀
+
+---
 
 ### 👩‍💻 About Me
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering (AI & ML)** at **Lovely Professional University**
-- 🚀 Building real-world **Python, Software, Data Science & HTML/CSS** projects
+- 🎓 **B.Tech in Computer Science & Engineering (AI & ML)** at **Lovely Professional University**
+- 💻 Building real-world **Python, Software, Data Science & HTML/CSS** projects
 - 🌱 Currently exploring **Machine Learning, Deep Learning & Data Storytelling**
 - 📫 Reach me at: **trishitasaha189@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+- **Languages:** `Python` • `C++` • `HTML5` • `CSS3`
+- **AI & Data Science:** `PyTorch` • `Machine Learning` • `Data Analysis` • `Jupyter`
+- **Tools & Platforms:** `Git` • `GitHub` • `VS Code` • `Kaggle`
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://vercel.app" height="165" />
-</div>
+### 🎯 Current Focus
+- 🔹 Developing end-to-end **Machine Learning & Data Science** models
+- 🔹 Crafting clean, responsive **Web & Software** applications
+- 🔹 Open to **AI/ML internships, research & collaborative projects**
+-
