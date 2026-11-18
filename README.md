@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://vercel.app" width="100%" />
+</div>
 
-<!--
-**trishita-saha-ai/trishita-saha-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 About Me
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering (AI & ML)** at **Lovely Professional University**
+- 🚀 Building real-world **Python, Software, Data Science & HTML/CSS** projects
+- 🌱 Currently exploring **Machine Learning, Deep Learning & Data Storytelling**
+- 📫 Reach me at: **trishitasaha189@gmail.com**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://vercel.app" height="165" />
+</div>
